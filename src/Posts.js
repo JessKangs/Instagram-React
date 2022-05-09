@@ -24,7 +24,7 @@ function Post (Props) {
             <div class="bot-post">
 
                 <div class="lado-esquerdo">
-                    <ion-button ><ion-icon class="heart-like" name="heart-outline"></ion-icon></ion-button>
+                    <ion-icon class="heart-like" name="heart-outline"></ion-icon>
                     <ion-icon name="chatbubble-outline"></ion-icon>                            
                     <ion-icon name="paper-plane-outline"></ion-icon>
                     <ion-icon id="lado-direito" name="bookmark-outline"></ion-icon>
