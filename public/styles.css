@@ -330,6 +330,14 @@ margin-top: 10px;
     
 }
 
+.red{
+    color: red;
+}
+
+.escondido {
+    display: none;
+}
+
 .curtidas img {
     width: 20px;
     height: 20px;
@@ -349,7 +357,7 @@ margin-top: 10px;
 .curtidas {
     display: flex;
     align-items: center;
-    width: 380px;
+    width: 610px;
     margin-left: 17px;
     margin-top: 14px;
     font-size: 14px;
